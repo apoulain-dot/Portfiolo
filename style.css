@@ -1,0 +1,15 @@
+:root {
+  --green: #00FF00;
+  --white: #FFFFFF;
+  --black: #000000;
+}
+body {
+ font-family: Roboto, sans-serif;
+ color: rgb(151, 14, 14);
+}
+.gros-titre {
+ font-size: 30px;
+}
+p:hover {
+ text-decoration: underline;
+}
